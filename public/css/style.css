@@ -141,7 +141,7 @@ hr {
   background-color: #608dfd;
 }
 .section-title {
-  margin-bottom: 70px;
+  margin-bottom: 10px;
 }
 .section-title h2 {
   position: relative;
@@ -205,15 +205,16 @@ a:focus,
 }
 /* Header Section */
 .intro {
-  display: table;
+  /* display: table; */
   width: 100%;
-  padding: 0;
+  /* padding: 0; */
   background: url(../img/intro-bg.jpg) center center no-repeat;
-  background-color: #e5e5e5;
+  /* background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
-  -o-background-size: cover;
+  -o-background-size: cover; */
+  /* object-fit: contain; */
 }
 .intro .overlay {
   background: rgba(0, 0, 0, 0.2);
@@ -240,7 +241,7 @@ a:focus,
   margin-bottom: 60px;
 }
 header .intro-text {
-  padding-top: 350px;
+  padding-top: 100px;
   padding-bottom: 200px;
   text-align: center;
 }
