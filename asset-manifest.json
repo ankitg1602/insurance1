@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ankitg1602/static/css/main.7c90efc5.chunk.css",
-    "main.js": "/ankitg1602/static/js/main.2f40ae46.chunk.js",
-    "main.js.map": "/ankitg1602/static/js/main.2f40ae46.chunk.js.map",
-    "runtime-main.js": "/ankitg1602/static/js/runtime-main.5c181118.js",
-    "runtime-main.js.map": "/ankitg1602/static/js/runtime-main.5c181118.js.map",
-    "static/js/2.bee78d0a.chunk.js": "/ankitg1602/static/js/2.bee78d0a.chunk.js",
-    "static/js/2.bee78d0a.chunk.js.map": "/ankitg1602/static/js/2.bee78d0a.chunk.js.map",
-    "index.html": "/ankitg1602/index.html",
-    "static/css/main.7c90efc5.chunk.css.map": "/ankitg1602/static/css/main.7c90efc5.chunk.css.map",
-    "static/js/2.bee78d0a.chunk.js.LICENSE.txt": "/ankitg1602/static/js/2.bee78d0a.chunk.js.LICENSE.txt"
+    "main.css": "/ankitg1602/insurance1/static/css/main.7c90efc5.chunk.css",
+    "main.js": "/ankitg1602/insurance1/static/js/main.77530a6e.chunk.js",
+    "main.js.map": "/ankitg1602/insurance1/static/js/main.77530a6e.chunk.js.map",
+    "runtime-main.js": "/ankitg1602/insurance1/static/js/runtime-main.8e3ae908.js",
+    "runtime-main.js.map": "/ankitg1602/insurance1/static/js/runtime-main.8e3ae908.js.map",
+    "static/js/2.bee78d0a.chunk.js": "/ankitg1602/insurance1/static/js/2.bee78d0a.chunk.js",
+    "static/js/2.bee78d0a.chunk.js.map": "/ankitg1602/insurance1/static/js/2.bee78d0a.chunk.js.map",
+    "index.html": "/ankitg1602/insurance1/index.html",
+    "static/css/main.7c90efc5.chunk.css.map": "/ankitg1602/insurance1/static/css/main.7c90efc5.chunk.css.map",
+    "static/js/2.bee78d0a.chunk.js.LICENSE.txt": "/ankitg1602/insurance1/static/js/2.bee78d0a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c181118.js",
+    "static/js/runtime-main.8e3ae908.js",
     "static/js/2.bee78d0a.chunk.js",
     "static/css/main.7c90efc5.chunk.css",
-    "static/js/main.2f40ae46.chunk.js"
+    "static/js/main.77530a6e.chunk.js"
   ]
 }
