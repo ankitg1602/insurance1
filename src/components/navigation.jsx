@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            <img src="img/portfolio/lic icon.jfif" alt="Lic Icon"></img>
+            {/* <img src="img/portfolio/lic icon.jfif" alt="Lic Icon"></img> */}
           </a>{' '}
         </div>
 
